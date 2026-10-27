@@ -404,6 +404,8 @@ ul { list-style: none; }
   .burger nav a { padding: 12px 14px; border-radius: 12px; font-size: 18px; }
   .burger nav a:hover { background: var(--chip); }
   .hero__grid { grid-template-columns: minmax(0, 1fr); align-items: start; }
+  .hero__media { height: 540px; }
+  .promo { bottom: 32px; }
   .cmp { display: none; }
   .cmp-cards { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 16px; }
   .cmp-card { display: flex; flex-direction: column; gap: 20px; padding: 32px; border-radius: 32px; border: 1px solid var(--line); }
